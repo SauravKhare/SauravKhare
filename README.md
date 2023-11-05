@@ -1,7 +1,7 @@
 ![image](./HelloThere.gif )
-# **👋 Hey, I'm Saurav Khare.**
+# **👋 I'm Saurav Khare.**
 
-### I'm a Software Engineer/Frontend Developer.
+### Software Engineer/Frontend Developer.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
