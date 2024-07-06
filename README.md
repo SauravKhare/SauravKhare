@@ -2,6 +2,8 @@
 # **👋 I'm Saurav Khare.**
 
 ### Software Engineer/Frontend Engineer.
+I'm an experienced frontend developer specializing in React and its broad ecosystem. Possessing a sharp eye for design and a talent for creating smooth user experiences, I excel at bringing concepts to life.
+Beyond my professional interests, I'm a passionate movie buff. Discussing and dissecting films is a real joy for me, especially when exploring visual storytelling's artistry.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
